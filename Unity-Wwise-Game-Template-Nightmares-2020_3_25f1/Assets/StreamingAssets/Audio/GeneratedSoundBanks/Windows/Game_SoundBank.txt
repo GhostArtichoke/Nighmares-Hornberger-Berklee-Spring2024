@@ -1,0 +1,32 @@
+Event	ID	Name			Wwise Object Path	Notes
+	284022124	sfx_player_hit			\Default Work Unit\sfx_player_hit	
+	377645597	sfx_player_death			\Default Work Unit\sfx_player_death	
+	516291168	sfx_zombunny_death			\Default Work Unit\sfx_zombunny_death	
+	554004836	mx_menu_music			\Default Work Unit\mx_menu_music	
+	1299260858	sfx_player_shoot			\Default Work Unit\sfx_player_shoot	
+	1494251832	mx_game_win			\Default Work Unit\mx_game_win	
+	1801831767	mx_game_music			\Default Work Unit\mx_game_music	
+	2123200850	amb_general			\Default Work Unit\amb_general	
+	2261090919	sfx_hellephant_death			\Default Work Unit\sfx_hellephant_death	
+	2582767885	mx_game_lose			\Default Work Unit\mx_game_lose	
+	2593995449	sfx_zombear_hurt			\Default Work Unit\sfx_zombear_hurt	
+	2894176512	sfx_hellephant_hurt			\Default Work Unit\sfx_hellephant_hurt	
+	3209341821	mx_load			\Default Work Unit\mx_load	
+	3465557601	amb_clockticking			\Default Work Unit\amb_clockticking	
+	4076065052	sfx_zombear_death			\Default Work Unit\sfx_zombear_death	
+	4204451453	sfx_zombunny_hurt			\Default Work Unit\sfx_zombunny_hurt	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	452089915	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\ambience_bikechain\ambience_silence\Wwise Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	6416565	L3_BikeChainAmbience6	Y:\My Drive\Education\Class Work\Game Audio Production with Wwise\Demo Project\Unity-Wwise-Game-Template-Nightmares-2020_3_25f1\Wwise Project 03 Template\.cache\Windows\SFX\L3_BikeChainAmbience6_2E8BFB8F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\ambience_bikechain\L3_BikeChainAmbience6		131694
+	303576242	ambience_clock	Y:\My Drive\Education\Class Work\Game Audio Production with Wwise\Demo Project\Unity-Wwise-Game-Template-Nightmares-2020_3_25f1\Wwise Project 03 Template\.cache\Windows\SFX\L3_Clock Ambience_775CB38D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\amb_clockticking\ambience_clock		122076
+	518466420	L3_BikeChainAmbience1	Y:\My Drive\Education\Class Work\Game Audio Production with Wwise\Demo Project\Unity-Wwise-Game-Template-Nightmares-2020_3_25f1\Wwise Project 03 Template\.cache\Windows\SFX\L3_BikeChainAmbience1_2E8BFB8F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\ambience_bikechain\L3_BikeChainAmbience1		103483
+	538265373	L3_BikeChainAmbience2	Y:\My Drive\Education\Class Work\Game Audio Production with Wwise\Demo Project\Unity-Wwise-Game-Template-Nightmares-2020_3_25f1\Wwise Project 03 Template\.cache\Windows\SFX\L3_BikeChainAmbience2_2E8BFB8F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\ambience_bikechain\L3_BikeChainAmbience2		124839
+	589553134	L3_GrowlAmbience	Y:\My Drive\Education\Class Work\Game Audio Production with Wwise\Demo Project\Unity-Wwise-Game-Template-Nightmares-2020_3_25f1\Wwise Project 03 Template\.cache\Windows\SFX\L3_GrowlAmbience_2E8BFB8F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\ambience_growl\L3_GrowlAmbience		183872
+	657911684	PlayerWandCast	Y:\My Drive\Education\Class Work\Game Audio Production with Wwise\Demo Project\Unity-Wwise-Game-Template-Nightmares-2020_3_25f1\Wwise Project 03 Template\.cache\Windows\SFX\Hornberger_WandCast_SFX_2E8BFB8F.wem		\Actor-Mixer Hierarchy\Default Work Unit\sfx_playerwandcast\PlayerWandCast		9815
+	701701327	L3_BikeChainAmbience3	Y:\My Drive\Education\Class Work\Game Audio Production with Wwise\Demo Project\Unity-Wwise-Game-Template-Nightmares-2020_3_25f1\Wwise Project 03 Template\.cache\Windows\SFX\L3_BikeChainAmbience3_2E8BFB8F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\ambience_bikechain\L3_BikeChainAmbience3		96040
+	773085712	L3_BikeChainAmbience4	Y:\My Drive\Education\Class Work\Game Audio Production with Wwise\Demo Project\Unity-Wwise-Game-Template-Nightmares-2020_3_25f1\Wwise Project 03 Template\.cache\Windows\SFX\L3_BikeChainAmbience4_2E8BFB8F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\ambience_bikechain\L3_BikeChainAmbience4		118286
+	939458163	L3_BikeChainAmbience5	Y:\My Drive\Education\Class Work\Game Audio Production with Wwise\Demo Project\Unity-Wwise-Game-Template-Nightmares-2020_3_25f1\Wwise Project 03 Template\.cache\Windows\SFX\L3_BikeChainAmbience5_2E8BFB8F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\ambience_bikechain\L3_BikeChainAmbience5		136302
+

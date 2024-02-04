@@ -1,0 +1,16 @@
+Event	ID	Name			Wwise Object Path	Notes
+	284022124	sfx_player_hit			\Default Work Unit\sfx_player_hit	
+	377645597	sfx_player_death			\Default Work Unit\sfx_player_death	
+	516291168	sfx_zombunny_death			\Default Work Unit\sfx_zombunny_death	
+	554004836	mx_menu_music			\Default Work Unit\mx_menu_music	
+	1299260858	sfx_player_shoot			\Default Work Unit\sfx_player_shoot	
+	1494251832	mx_game_win			\Default Work Unit\mx_game_win	
+	1801831767	mx_game_music			\Default Work Unit\mx_game_music	
+	2261090919	sfx_hellephant_death			\Default Work Unit\sfx_hellephant_death	
+	2582767885	mx_game_lose			\Default Work Unit\mx_game_lose	
+	2593995449	sfx_zombear_hurt			\Default Work Unit\sfx_zombear_hurt	
+	2894176512	sfx_hellephant_hurt			\Default Work Unit\sfx_hellephant_hurt	
+	3209341821	mx_load			\Default Work Unit\mx_load	
+	4076065052	sfx_zombear_death			\Default Work Unit\sfx_zombear_death	
+	4204451453	sfx_zombunny_hurt			\Default Work Unit\sfx_zombunny_hurt	
+
